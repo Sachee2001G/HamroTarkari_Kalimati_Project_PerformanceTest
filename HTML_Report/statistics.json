@@ -1,0 +1,34 @@
+{
+  "GET KeyValue Pair" : {
+    "transaction" : "GET KeyValue Pair",
+    "sampleCount" : 14699,
+    "errorCount" : 344,
+    "errorPct" : 2.3402953,
+    "meanResTime" : 33753.70698686988,
+    "medianResTime" : 26489.0,
+    "minResTime" : 1575.0,
+    "maxResTime" : 356532.0,
+    "pct1ResTime" : 63404.0,
+    "pct2ResTime" : 99755.0,
+    "pct3ResTime" : 217114.0,
+    "throughput" : 30.879473626715292,
+    "receivedKBytesPerSec" : 3935.6952328506163,
+    "sentKBytesPerSec" : 5.242100481447947
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 14699,
+    "errorCount" : 344,
+    "errorPct" : 2.3402953,
+    "meanResTime" : 33753.70698686988,
+    "medianResTime" : 26489.0,
+    "minResTime" : 1575.0,
+    "maxResTime" : 356532.0,
+    "pct1ResTime" : 63404.0,
+    "pct2ResTime" : 99755.0,
+    "pct3ResTime" : 217114.0,
+    "throughput" : 30.879473626715292,
+    "receivedKBytesPerSec" : 3935.6952328506163,
+    "sentKBytesPerSec" : 5.242100481447947
+  }
+}
