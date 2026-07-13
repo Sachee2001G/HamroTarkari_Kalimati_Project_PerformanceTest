@@ -252,7 +252,7 @@ jmeter -v
 
 # Author
 
-**Sachee Ghimire**
+** Er.Sachee Ghimire**
 
 Associate Software Engineer (QA)
 
